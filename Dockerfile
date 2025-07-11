@@ -4,14 +4,14 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY ["appComercial.csproj", "./"]
-RUN dotnet restore "./appComercial.csproj"
+COPY ["INTEGRACION_SANJUAN.csproj", "./"]
+RUN dotnet restore "./INTEGRACION_SANJUAN.csproj"
 COPY . .
 WORKDIR "/src/."
-RUN dotnet build "appComercial.csproj" -c Release -o /app/build
-RUN dotnet publish "appComercial.csproj" -c Release -o /app/publish
+RUN dotnet build "INTEGRACION_SANJUAN.csproj" -c Release -o /app/build
+RUN dotnet publish "INTEGRACION_SANJUAN.csproj" -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
 COPY --from=build /app/publish .
-ENTRYPOINT ["dotnet", "appComercial.dll"]
+ENTRYPOINT ["dotnet", "INTEGRACION_SANJUAN.dll"]
