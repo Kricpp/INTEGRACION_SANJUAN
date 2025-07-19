@@ -21,6 +21,13 @@ namespace INTEGRACION_SANJUAN.Data
                 .HasForeignKey(c => c.IdDocente)
                 .OnDelete(DeleteBehavior.SetNull);
         }
+
+       
+
+            public DbSet<MesaPartes> MesaPartes { get; set; }
+        
+
+
     }
 }
 

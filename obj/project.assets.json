@@ -3220,11 +3220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\INTEGRACION_SANJUAN.csproj",
+      "projectUniqueName": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\INTEGRACION_SANJUAN.csproj",
       "projectName": "INTEGRACION_SANJUAN",
-      "projectPath": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\INTEGRACION_SANJUAN.csproj",
+      "projectPath": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\INTEGRACION_SANJUAN.csproj",
       "packagesPath": "C:\\Users\\KRISTELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\obj\\",
+      "outputPath": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

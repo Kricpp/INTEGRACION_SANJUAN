@@ -1,38 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\",
+  "WorkspaceRootPath": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\downloads\\integracion_sanjuan (2)\\integracion_sanjuan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\desktop\\integracion_sanjuan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\downloads\\integracion_sanjuan (2)\\integracion_sanjuan\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\desktop\\integracion_sanjuan\\integracion_sanjuan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:integracion_sanjuan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\downloads\\integracion_sanjuan (2)\\integracion_sanjuan\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\downloads\\integracion_sanjuan (2)\\integracion_sanjuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\desktop\\integracion_sanjuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\downloads\\integracion_sanjuan (2)\\integracion_sanjuan\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\desktop\\integracion_sanjuan\\controllers\\mesapartescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:controllers\\mesapartescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\desktop\\integracion_sanjuan\\models\\mesapartes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:models\\mesapartes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\desktop\\integracion_sanjuan\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\downloads\\integracion_sanjuan (2)\\integracion_sanjuan\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\downloads\\integracion_sanjuan (2)\\integracion_sanjuan\\controllers\\docentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\desktop\\integracion_sanjuan\\controllers\\docentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:controllers\\docentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\downloads\\integracion_sanjuan (2)\\integracion_sanjuan\\integracion_sanjuan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:integracion_sanjuan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\desktop\\integracion_sanjuan\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\desktop\\integracion_sanjuan\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|c:\\users\\kristell\\desktop\\integracion_sanjuan\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD20BD0-ABA4-4795-ACED-9CD23E4FFC31}|INTEGRACION_SANJUAN.csproj|solutionrelative:controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,77 +50,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "DocentesController.cs",
+              "DocumentMoniker": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Controllers\\DocentesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocentesController.cs",
+              "ToolTip": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Controllers\\DocentesController.cs",
+              "RelativeToolTip": "Controllers\\DocentesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T23:19:44.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Docente.cs",
-              "DocumentMoniker": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Models\\Docente.cs",
-              "RelativeDocumentMoniker": "Models\\Docente.cs",
-              "ToolTip": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Models\\Docente.cs",
-              "RelativeToolTip": "Models\\Docente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T23:18:07.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T23:13:09.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CursosController.cs",
-              "DocumentMoniker": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Controllers\\CursosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CursosController.cs",
-              "ToolTip": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Controllers\\CursosController.cs",
-              "RelativeToolTip": "Controllers\\CursosController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T23:11:35.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Models\\Curso.cs",
-              "RelativeDocumentMoniker": "Models\\Curso.cs",
-              "ToolTip": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Models\\Curso.cs",
-              "RelativeToolTip": "Models\\Curso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T23:04:26.572Z",
+              "WhenOpened": "2025-07-03T23:18:31.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\appsettings.json",
+              "ToolTip": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -121,27 +80,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DocentesController.cs",
-              "DocumentMoniker": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Controllers\\DocentesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DocentesController.cs",
-              "ToolTip": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\Controllers\\DocentesController.cs",
-              "RelativeToolTip": "Controllers\\DocentesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "DocumentIndex": 7,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Models\\Docente.cs",
+              "RelativeDocumentMoniker": "Models\\Docente.cs",
+              "ToolTip": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Models\\Docente.cs",
+              "RelativeToolTip": "Models\\Docente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T23:18:31.161Z"
+              "WhenOpened": "2025-07-03T23:18:07.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T23:19:44.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "INTEGRACION_SANJUAN.csproj",
-              "DocumentMoniker": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\INTEGRACION_SANJUAN.csproj",
+              "DocumentMoniker": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\INTEGRACION_SANJUAN.csproj",
               "RelativeDocumentMoniker": "INTEGRACION_SANJUAN.csproj",
-              "ToolTip": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\INTEGRACION_SANJUAN.csproj",
-              "RelativeToolTip": "INTEGRACION_SANJUAN.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ToolTip": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\INTEGRACION_SANJUAN.csproj*",
+              "RelativeToolTip": "INTEGRACION_SANJUAN.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-03T23:03:20.936Z"
+              "WhenOpened": "2025-07-03T23:03:20.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T23:13:09.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MesaPartesController.cs",
+              "DocumentMoniker": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Controllers\\MesaPartesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MesaPartesController.cs",
+              "ToolTip": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Controllers\\MesaPartesController.cs",
+              "RelativeToolTip": "Controllers\\MesaPartesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T09:43:00.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MesaPartes.cs",
+              "DocumentMoniker": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Models\\MesaPartes.cs",
+              "RelativeDocumentMoniker": "Models\\MesaPartes.cs",
+              "ToolTip": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Models\\MesaPartes.cs",
+              "RelativeToolTip": "Models\\MesaPartes.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T09:45:11.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "Controllers\\CursosController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T23:11:35.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\Models\\Curso.cs",
+              "RelativeToolTip": "Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T23:04:26.572Z"
             }
           ]
         }

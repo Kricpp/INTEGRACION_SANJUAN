@@ -244,6 +244,235 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "INTEGRACION_SANJUAN.Controllers.MesaPartesController",
+    "Method": "GetRegistros",
+    "RelativePath": "api/MesaPartes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[INTEGRACION_SANJUAN.Models.MesaPartes, INTEGRACION_SANJUAN, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "INTEGRACION_SANJUAN.Controllers.MesaPartesController",
+    "Method": "PostRegistro",
+    "RelativePath": "api/MesaPartes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodTipoSolicitante",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodTipoDocumento",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "NroDocumento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RazonSocial",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Nombres",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ApePaterno",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ApeMaterno",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CalleDomicilio",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Departamento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Provincia",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Distrito",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Correo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodDependencia",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodTipoDocumentoDoc",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "NroDocumentoDoc",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NroFolios",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "DetalleSolicitud",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DocumentoPrincipal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Anexo1",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Anexo2",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Anexo3",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "archivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "anexos",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "INTEGRACION_SANJUAN.Models.MesaPartes",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "INTEGRACION_SANJUAN.Controllers.MesaPartesController",
+    "Method": "GetRegistro",
+    "RelativePath": "api/MesaPartes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "INTEGRACION_SANJUAN.Models.MesaPartes",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "INTEGRACION_SANJUAN.Controllers.MesaPartesController",
+    "Method": "PutRegistro",
+    "RelativePath": "api/MesaPartes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "INTEGRACION_SANJUAN.Models.MesaPartes",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "INTEGRACION_SANJUAN.Controllers.MesaPartesController",
+    "Method": "DeleteRegistro",
+    "RelativePath": "api/MesaPartes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "INTEGRACION_SANJUAN.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R6reycrIMf4=",
+  "dgSpecHash": "RUsLCEb+N0g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\KRISTELL\\Downloads\\INTEGRACION_SANJUAN (2)\\INTEGRACION_SANJUAN\\INTEGRACION_SANJUAN.csproj",
+  "projectFilePath": "C:\\Users\\KRISTELL\\Desktop\\INTEGRACION_SANJUAN\\INTEGRACION_SANJUAN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KRISTELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\KRISTELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

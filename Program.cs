@@ -3,7 +3,7 @@
 // Conexión a la base de datos SANJUAN
 using Microsoft.EntityFrameworkCore;
 using INTEGRACION_SANJUAN.Data;
-using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -42,6 +42,7 @@ app.UseCors(builder =>
 app.UseHttpsRedirection();
 app.UseRouting();
 app.UseAuthorization();
+app.UseStaticFiles();
 
 // Rutas tipo API REST
 app.MapControllers();

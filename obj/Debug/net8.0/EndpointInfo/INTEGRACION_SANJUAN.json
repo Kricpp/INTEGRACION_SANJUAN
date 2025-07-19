@@ -423,6 +423,346 @@
         }
       }
     },
+    "/api/MesaPartes": {
+      "get": {
+        "tags": [
+          "MesaPartes"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/MesaPartes"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/MesaPartes"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/MesaPartes"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "MesaPartes"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "CodTipoSolicitante": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "CodTipoDocumento": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "NroDocumento": {
+                    "type": "string"
+                  },
+                  "RazonSocial": {
+                    "type": "string"
+                  },
+                  "Nombres": {
+                    "type": "string"
+                  },
+                  "ApePaterno": {
+                    "type": "string"
+                  },
+                  "ApeMaterno": {
+                    "type": "string"
+                  },
+                  "CalleDomicilio": {
+                    "type": "string"
+                  },
+                  "Departamento": {
+                    "type": "string"
+                  },
+                  "Provincia": {
+                    "type": "string"
+                  },
+                  "Distrito": {
+                    "type": "string"
+                  },
+                  "Correo": {
+                    "type": "string"
+                  },
+                  "Telefono": {
+                    "type": "string"
+                  },
+                  "CodDependencia": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "CodTipoDocumentoDoc": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "NroDocumentoDoc": {
+                    "type": "string"
+                  },
+                  "NroFolios": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "DetalleSolicitud": {
+                    "type": "string"
+                  },
+                  "DocumentoPrincipal": {
+                    "type": "string"
+                  },
+                  "Anexo1": {
+                    "type": "string"
+                  },
+                  "Anexo2": {
+                    "type": "string"
+                  },
+                  "Anexo3": {
+                    "type": "string"
+                  },
+                  "archivo": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "anexos": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "binary"
+                    }
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "CodTipoSolicitante": {
+                  "style": "form"
+                },
+                "CodTipoDocumento": {
+                  "style": "form"
+                },
+                "NroDocumento": {
+                  "style": "form"
+                },
+                "RazonSocial": {
+                  "style": "form"
+                },
+                "Nombres": {
+                  "style": "form"
+                },
+                "ApePaterno": {
+                  "style": "form"
+                },
+                "ApeMaterno": {
+                  "style": "form"
+                },
+                "CalleDomicilio": {
+                  "style": "form"
+                },
+                "Departamento": {
+                  "style": "form"
+                },
+                "Provincia": {
+                  "style": "form"
+                },
+                "Distrito": {
+                  "style": "form"
+                },
+                "Correo": {
+                  "style": "form"
+                },
+                "Telefono": {
+                  "style": "form"
+                },
+                "CodDependencia": {
+                  "style": "form"
+                },
+                "CodTipoDocumentoDoc": {
+                  "style": "form"
+                },
+                "NroDocumentoDoc": {
+                  "style": "form"
+                },
+                "NroFolios": {
+                  "style": "form"
+                },
+                "DetalleSolicitud": {
+                  "style": "form"
+                },
+                "DocumentoPrincipal": {
+                  "style": "form"
+                },
+                "Anexo1": {
+                  "style": "form"
+                },
+                "Anexo2": {
+                  "style": "form"
+                },
+                "Anexo3": {
+                  "style": "form"
+                },
+                "archivo": {
+                  "style": "form"
+                },
+                "anexos": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/MesaPartes"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MesaPartes"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MesaPartes"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/MesaPartes/{id}": {
+      "get": {
+        "tags": [
+          "MesaPartes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/MesaPartes"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MesaPartes"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MesaPartes"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "MesaPartes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MesaPartes"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MesaPartes"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/MesaPartes"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "MesaPartes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -567,6 +907,110 @@
             "format": "date-time"
           },
           "correo": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MesaPartes": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "codTipoSolicitante": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "codTipoDocumento": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "nroDocumento": {
+            "type": "string",
+            "nullable": true
+          },
+          "razonSocial": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombres": {
+            "type": "string",
+            "nullable": true
+          },
+          "apePaterno": {
+            "type": "string",
+            "nullable": true
+          },
+          "apeMaterno": {
+            "type": "string",
+            "nullable": true
+          },
+          "calleDomicilio": {
+            "type": "string",
+            "nullable": true
+          },
+          "departamento": {
+            "type": "string",
+            "nullable": true
+          },
+          "provincia": {
+            "type": "string",
+            "nullable": true
+          },
+          "distrito": {
+            "type": "string",
+            "nullable": true
+          },
+          "correo": {
+            "type": "string",
+            "nullable": true
+          },
+          "telefono": {
+            "type": "string",
+            "nullable": true
+          },
+          "codDependencia": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "codTipoDocumentoDoc": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "nroDocumentoDoc": {
+            "type": "string",
+            "nullable": true
+          },
+          "nroFolios": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "detalleSolicitud": {
+            "type": "string",
+            "nullable": true
+          },
+          "documentoPrincipal": {
+            "type": "string",
+            "nullable": true
+          },
+          "anexo1": {
+            "type": "string",
+            "nullable": true
+          },
+          "anexo2": {
+            "type": "string",
+            "nullable": true
+          },
+          "anexo3": {
             "type": "string",
             "nullable": true
           }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("INTEGRACION_SANJUAN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+832adb3b49c4247dacfde57fba49c87656165544")]
 [assembly: System.Reflection.AssemblyProductAttribute("INTEGRACION_SANJUAN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("INTEGRACION_SANJUAN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
